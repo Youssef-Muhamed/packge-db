@@ -1,5 +1,4 @@
 <?php
-//require "env.php";
 namespace Packge\Dbwrapper;
 class dbwrapper
 {
@@ -80,14 +79,3 @@ class dbwrapper
         }
     }
 }
-//
-//$dataa = new db();
-//echo "<pre>";
-////print_r($dataa->select("user","*")->where("id","=",1)->getRow());
-//$data = [
-//    "name" => "sayed",
-//    "email" =>"n@n.com",
-//    "password" =>111
-//];
-//
-//$dataa->insert("user",$data)->excu();
