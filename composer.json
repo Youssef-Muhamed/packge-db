@@ -1,0 +1,18 @@
+{
+    "name": "packge/dbwrapper",
+    "description": "php wrapper for msql db",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Packge\\Dbwrapper\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Youssef-Muhamed",
+            "email": "dev.youssef0@gmail.com"
+        }
+    ],
+    "require": {}
+}
